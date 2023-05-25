@@ -38,7 +38,7 @@ const App = () => {
           })}
       </div>
       <footer className="footer">
-        <p className="footer-text">© 2023 Your Website. All rights reserved.</p>
+        <p className="footer-text">© 2023 GitHubUsers Website. All rights reserved.</p>
       </footer>
     </>
   );
